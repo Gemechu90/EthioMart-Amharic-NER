@@ -96,11 +96,6 @@ We experiment with the following models:
 
 ## Team Members
 
-- [Alpha Lencho ](https://github.com/Alpha-Mintamir)
-- [Olyad Temesgen](https://github.com/OL-YAD)
-- [Endekalu Simon](https://github.com/Endekalu777)
-- [Bereket Birhanu](https://github.com/Bereket-07)
-- [Ephrem M Merid](https://github.com/team-member-4)
 
 
 ## License
